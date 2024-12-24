@@ -1,2 +1,0 @@
-# Platoon
-Vehicle Platoon Simulation
